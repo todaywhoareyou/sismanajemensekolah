@@ -87,3 +87,4 @@ $request->all() = mengekstrak seluruh data yang diisi dari halaman formulir
 ->all() = mengambil seluruh data yang ada pada tabel yang diinginkan
 ```
 # sismanajemensekolah
+# sismanajemensekolah
